@@ -1,6 +1,3 @@
-# Alarm_Clock_By_Html_CSS_JS
-The code represents a feature-rich, modern web application for time management named "Enhanced Alarm Clock". This application is designed with a sleek, responsive UI that includes a dark/light mode toggle and utilizes modern web technologies like Tailwind CSS for styling.  
-
 # Enhanced Alarm Clock
 
 A modern, feature-rich alarm clock web application with a beautiful UI and comprehensive time management features.
@@ -169,4 +166,4 @@ For support, email support@example.com or open an issue in the repository.
   - Initial release
   - Basic alarm functionality
   - Stopwatch feature
-  - World clock support
+  - World clock support 
